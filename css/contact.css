@@ -16,12 +16,16 @@
         display: block;
         text-align: center;
         color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
     
     footer {
         display: flex;
         justify-content: center;
         color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     fieldset {
@@ -64,6 +68,8 @@
     main {
         display: flex;
         justify-content: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     label {
